@@ -37,8 +37,6 @@ Your task is to provide a more aesthetically pleasing ordering of a list of colo
 
 To illustrate what we mean, consider the colour bands in the figure below. The top band shows an unordered set of colours, while the 2nd and 3rd bands have been ordered by different algorithms.  You can clearly notice the difference between an arbitrary ordering and an improved ordering.
 
-colour-bands.png
-
 To complete your task, you are asked to implement 3 different algorithms. 
 
 Multi-start hill-climbing algorithm
