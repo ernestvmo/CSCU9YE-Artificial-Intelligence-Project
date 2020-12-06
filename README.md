@@ -82,21 +82,21 @@ You need to submit 3 Jupyter notebooks,  one for each Algorithm.  The notebooks 
 
 There is no need to recapitulate the problem or have an introduction.  Here a  description of what to include in each of the Jupyter notebooks in addition to your code.  You will also find an indication of the % marks for each part.
 
-Multi-start hill-climbing algorithm (40 %)
-Indicate which neighbourhood you implemented, briefly justify your choice.
-Record the trace of objective function values obtained across a single run of the Hill-climbing algorithm. With a line plot, visualise this trace.
-Run your multi-start hill-climbing algorithm for both colour sizes 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
-Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them mhc_best100 and mhc_best500.  Using the visualisation function, produce the colour band plots for your solutions, report also their objective function (evaluation) values. 
-Describe briefly the experiments you conducted to find the best solutions (i.e. number of iterations,  tries)
-Clustering-based algorithm (30%)
-Indicate which clustering algorithm you used, briefly justify your choice.
-Indicate how many clusters K you used for each instance size (100, 500), briefly justify your answer.
-Run your clustering-based algorithm for both instances 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
-Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them cl_best100 and cl_best500.  Using the visualisation function, produce the colour band plots for your solutions.
-Here what you consider your best solutions are subject to your appreciation. Notice that the function evaluate considered in Algorithm 1,  is not used here. You can still use the evaluate function if you would like to have an approximate assessment of the quality of the clustering-based solutions.
-Describe briefly the experiments you conducted to find the best solutions (i.e. number tries, clustering algorithm parameters)
- Algorithm variant of your choice (30 %)
-Briefly describe in text the main idea and motivation behind your algorithm
-Run your algorithm for both dataset sizes 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
-Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them my_best100 and my_best500. Using the visualisation function, produce the colour band plots for your solutions, report also their objective function (evaluation) values. 
-Describe briefly the experiments you conducted to find the best solutions (i.e. number tries, iterations, parameters)
+<h4>Multi-start hill-climbing algorithm (40 %)</h4>
+- Indicate which neighbourhood you implemented, briefly justify your choice.
+- Record the trace of objective function values obtained across a single run of the Hill-climbing algorithm. With a line plot, visualise this trace.
+- Run your multi-start hill-climbing algorithm for both colour sizes 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
+- Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them mhc_best100 and mhc_best500.  Using the visualisation function, produce the colour band plots for your solutions, report also their objective function (evaluation) values. 
+- Describe briefly the experiments you conducted to find the best solutions (i.e. number of iterations,  tries)
+<h4>Clustering-based algorithm (30%)</h4>
+- Indicate which clustering algorithm you used, briefly justify your choice.
+- Indicate how many clusters K you used for each instance size (100, 500), briefly justify your answer.
+- Run your clustering-based algorithm for both instances 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
+- Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them cl_best100 and cl_best500.  Using the visualisation function, produce the colour band plots for your solutions.
+- Here what you consider your best solutions are subject to your appreciation. Notice that the function evaluate considered in Algorithm 1,  is not used here. You can still use the evaluate function if you would like to have an approximate assessment of the quality of the clustering-based solutions.
+- Describe briefly the experiments you conducted to find the best solutions (i.e. number tries, clustering algorithm parameters)
+<h4>Algorithm variant of your choice (30 %)</h4>
+- Briefly describe in text the main idea and motivation behind your algorithm
+- Run your algorithm for both dataset sizes 100 and 500. You can conduct your own experimentation, there is no particular limit on the number of iterations, repetitions you want to run.
+- Report (by assigning them to Python variables) the best solution found for each instance during your experimentation, call them my_best100 and my_best500. Using the visualisation function, produce the colour band plots for your solutions, report also their objective function (evaluation) values. 
+- Describe briefly the experiments you conducted to find the best solutions (i.e. number tries, iterations, parameters)
