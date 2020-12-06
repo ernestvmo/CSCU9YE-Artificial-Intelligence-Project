@@ -1,7 +1,8 @@
 # CSCU9YE-Project
 
-This project was realized as assignment for the course CSCU9YE at the University of Stirling.<br><br>
+This project was realized as a group assignment for the course CSCU9YE at the University of Stirling.<br><br>
 This project achieved a grade of 74%.
+We decided to implement an evolutionary algorithm as the implementation of our choice.
 <br><br>
 <h2>Project Description</h2>
 “Welcome! You’re our new employee, right? You should already know that our company specialises in software for editing and managing large collections of photographs. Some of our valued customers want to be able to browse their photograph collection in a visually pleasing fashion with similar coloured photographs following each other.
