@@ -1,4 +1,4 @@
-# CSCU9YE-Artificial Intelligence Assignment Project
+# CSCU9YE - Artificial Intelligence Assignment Project
 
 This project was realized as a group assignment for the course CSCU9YE at the University of Stirling.<br>
 This project achieved a grade of 74%.<br>
